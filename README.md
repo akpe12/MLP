@@ -1,11 +1,9 @@
 # MLP
 
 - MultiLayerNet.py
+
 Implementation code for MLP architecture
 
 - Training.py
-Training code
 
-- nn
-|
-_
+Training code
