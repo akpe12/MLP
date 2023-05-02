@@ -35,7 +35,7 @@ List of optimizers
 -> Implementation code of early stopping, dataloader and gradient clipping
 
 
-- Training results
+# Training results
 1. Accs by number of layer
 
 ![original](https://user-images.githubusercontent.com/77143331/235698613-fbe8965f-0ffc-43c6-b801-2ec7ecc05a1a.png)
